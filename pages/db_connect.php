@@ -7,7 +7,7 @@ function connect()
 		"host"=>"localhost",  // กำหนด host
 		"user"=>"root", // กำหนดชื่อ user
 		"pass"=>"",   // กำหนดรหัสผ่าน
-		"dbname"=>"room",  // cars
+		"dbname"=>"room",  // ชื่อ Database
 		"charset"=>"utf8"  // กำหนด charset
 	);
   // สิ้นสุดดส่วนกำหนดการเชิ่อมต่อฐานข้อมูล // 	
